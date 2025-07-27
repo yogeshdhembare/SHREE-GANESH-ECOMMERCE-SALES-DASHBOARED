@@ -4,7 +4,7 @@ An interactive and insightful **Power BI Dashboard** built to efficiently **moni
 
 ---
 
-![Dashboard Screenshot](Dashboard.PNG)
+![Dashboard Screenshot](https://github.com/yogeshdhembare/SHREE-GANESH-ECOMMERCE-SALES-DASHBOARED/blob/main/Dashboard.png)
 *Visual overview of the dashboard interface*
 
 ---
