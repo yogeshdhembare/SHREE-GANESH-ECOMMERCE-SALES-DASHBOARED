@@ -4,7 +4,7 @@ An interactive and insightful **Power BI Dashboard** built to efficiently **moni
 
 ---
 
-![Dashboard Screenshot](assets/Dashboard.png)
+![Dashboard Screenshot](assets/Dashboard.PNG)
 *Visual overview of the dashboard interface*
 
 ---
